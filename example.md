@@ -1,4 +1,4 @@
-![logo_SPMS2016.png](https://github.com/SPMSSICC/Markdown/blob/master/logos%20SPMS/logo_SPMS2016.png "")
+![logo_SPMS2016.png](https://raw.githubusercontent.com/SPMSSICC/Markdown/blob/master/logos%20SPMS/logo_SPMS2016.png "")
 
 #**[SICC](C://Users//User//Desktop//SICC//LOGIN.html "SICC") – Chave orçamental por ano**
 ``Os direitos de autor deste trabalho pertencem à SPMS e a informação nele contida é confidencial.``
@@ -16,11 +16,11 @@ Para a criação do “dado mestre” da Chave orçamental, deve ser fornecida d
 
 Menu:
 
-![Chaves Orçamentais por ano.png](https://github.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/Chaves%20Or%C3%A7amentais%20por%20ano.png "")
+![Chaves Orçamentais por ano.png](https://raw.githubusercontent.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/Chaves%20Or%C3%A7amentais%20por%20ano.png "")
 
 Submenu (antigo):
 
-![configurações.png](https://github.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/configura%C3%A7%C3%B5es.png "")
+![configurações.png](https://raw.githubusercontent.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/configura%C3%A7%C3%B5es.png "")
 
 Com as referidas alterações, a informação referente à chave orçamental, exceto os métodos, deixam de existir neste submenu e passa a ser integrada na Parametrização – Instituição – Exercícios.
 
@@ -28,7 +28,7 @@ Desta forma, este novo submenu apresenta o aspeto abaixo evidenciado, contendo i
 
 Submenu (novo):
 
-![configuraçõesnovo.png](https://github.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/configura%C3%A7%C3%B5esnovo.png "")
+![configuraçõesnovo.png](https://raw.githubusercontent.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/configura%C3%A7%C3%B5esnovo.png "")
 
 ##3.	Parametrização – Instituição – Exercícios
 
@@ -36,19 +36,19 @@ O próximo menu também sofreu ligeiras alterações, pelo que:
 
 Menu:
 
-![menuII.png](https://github.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/menuII.png"")
+![menuII.png](https://raw.githubusercontent.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/menuII.png"")
 
 Submenu (antigo):
 
-![submenuantigo.png](https://github.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/submenuantigo.png "")
+![submenuantigo.png](https://raw.githubusercontent.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/submenuantigo.png "")
 
 Em jeito de melhoria da aplicação SICC, chegou-se assim á conclusão que faz todo o sentido o Utilizador poder verificar na mesma tela a chave orçamental que foi utilizada em anos anteriores. Desta forma e neste submenu foi feita a seguinte alteração.
 
 Submenu (novo):
 
-![submenunovo.png](https://github.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/submenunovo.png "")
+![submenunovo.png](https://raw.githubusercontent.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/submenunovo.png "")
 
-![submenunovoII.png](https://github.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/submenunovoII.png "")
+![submenunovoII.png](https://raw.githubusercontent.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/submenunovoII.png "")
 
 Assim, é necessário (depois de parametrizado no menu: Parametrização; submenu contabilidade pública) preencher a tela “Contabilidade Orçamental”, nomeadamente o campo de referência F. Financiamento, Programa, Medida, Projeto, regionalização, Atividade, Centro Funcional, Natureza.
 À semelhança do anterior, os exercícios contém indicação das datas: Inicio; Fim; Contabilidade fechada. O campo dos Fundos Disponíveis possibilita saber os valores transitados do antecedente e para o ano em questão.  
@@ -58,34 +58,34 @@ A título de exemplo e na criação de um CB, demonstra-se que o sistema SICC, f
 
 *_2015_*:
 
-![2015.png](https://github.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/2015.png "")    
+![2015.png](https://raw.githubusercontent.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/2015.png "")    
 
 
 *_2016_*:
 
-![2016.png](https://github.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/2016.png "")
+![2016.png](https://raw.githubusercontent.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/2016.png "")
 
 
 Outro exemplo de recolhas, podem ser as Ligações de outras aplicações – Ligações Pessoal
 
 *_2015_*:
 
-![2015II.png](https://github.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/2015II.png "")
+![2015II.png](https://raw.githubusercontent.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/2015II.png "")
 
 
 *_2016_*:
 
-![2016II.png](https://github.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/2016II.png "")
+![2016II.png](https://raw.githubusercontent.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/2016II.png "")
 
 ##4.	Parametrização – Contabilidade – Contabilidade Pública
 
 Posteriormente à criação das chaves orçamentais, o utilizador tem a possibilidade de efetuar qualquer alteração/modificação. Este cenário pode ocorrer por exemplo em situações de alteração da designação, ou fonte de financiamento. As respetivas alterações são sempre efetuadas no caminho abaixo demonstrado:
 
-![menu3.png](https://github.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/menu3.png "")
+![menu3.png](https://raw.githubusercontent.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/menu3.png "")
 
-![nota1.png](https://github.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/nota1.png "")
+![nota1.png](https://raw.githubusercontent.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/nota1.png "")
 
-![gest.png](https://github.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/gest.png "")
+![gest.png](https://raw.githubusercontent.com/SPMSSICC/Markdown/blob/master/Chaves%20or%C3%A7amentais%20por%20ano/gest.png "")
 
 Nestas telas, pode o Utilizador criar “Novo” ou “Abater”, sendo que para qualquer procedimento, no final deve pressionar o botão “confirmar”.
 
