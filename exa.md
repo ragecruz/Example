@@ -6,13 +6,13 @@
 
 > Este trabalho não pode ser reproduzido ou divulgado, na íntegra ou em parte, a terceiros nem utilizado para outros fins que não aqueles para que foi fornecido sem a autorização escrita prévia ou, se alguma parte do mesmo for fornecida por virtude de um contrato com terceiros, segundo autorização expressa de acordo com esse contrato. Todos os outros direitos e marcas são reconhecidos.
 
-##1.	Introdução
+## 1.	Introdução
 
 Este manual surge no sentido de demonstrar ao Utilizador as ligeiras alterações em alguns dos menus e submenus do SICC. Pretende-se assim, evidenciar a necessidade na definição da chave orçamental por ano. 
 A estrutura do orçamento é determinada pelas chaves orçamentais que disponham de valores orçamentados, quer por via do orçamento aprovado, quer por via de reforços e como tal, só estas podem ser executadas, quer na despesa quer na receita. 
 Para a criação do “dado mestre” da Chave orçamental, deve ser fornecida diversa informação, tal como o código, a denominação, a descrição, a data de validade, a fonte de financiamento, o programa, a medida, o projeto e/ou a atividade.
 
-##2.	Parametrização – Instituição - Configurações
+## 2.	Parametrização – Instituição - Configurações
 
 Menu:
 
@@ -30,7 +30,7 @@ Submenu (novo):
 
 ![configuraçõesnovo.png](https://raw.githubusercontent.com/SPMSSICC/Markdown/master/Chaves%20or%C3%A7amentais%20por%20ano/configura%C3%A7%C3%B5esnovo.png "")
 
-##3.	Parametrização – Instituição – Exercícios
+## 3.	Parametrização – Instituição – Exercícios
 
 O próximo menu também sofreu ligeiras alterações, pelo que:
 
@@ -77,7 +77,7 @@ Outro exemplo de recolhas, podem ser as Ligações de outras aplicações – Li
 
 ![2016II.png](https://raw.githubusercontent.com/SPMSSICC/Markdown/master/Chaves%20or%C3%A7amentais%20por%20ano/2016II.png "")
 
-##4.	Parametrização – Contabilidade – Contabilidade Pública
+## 4.	Parametrização – Contabilidade – Contabilidade Pública
 
 Posteriormente à criação das chaves orçamentais, o utilizador tem a possibilidade de efetuar qualquer alteração/modificação. Este cenário pode ocorrer por exemplo em situações de alteração da designação, ou fonte de financiamento. As respetivas alterações são sempre efetuadas no caminho abaixo demonstrado:
 
