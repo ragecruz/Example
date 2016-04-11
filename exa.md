@@ -1,6 +1,6 @@
 ![logo_SPMS2016.png](https://raw.githubusercontent.com/SPMSSICC/Markdown/master/logos%20SPMS/logo_SPMS2016.png "")
 
-#**[SICC](C://Users//User//Desktop//SICC//LOGIN.html "SICC") – Chave orçamental por ano**<Enter>
+#* [SICC](C://Users//User//Desktop//SICC//LOGIN.html "SICC") – Chave orçamental por ano *
 ``Os direitos de autor deste trabalho pertencem à SPMS e a informação nele contida é confidencial.``
 
 
